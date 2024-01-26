@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(27, 26, 26);
+  color: white;
+}
+
+.main-container {
+  padding-left: 20%;
+  padding-top: 15px;
+}
+
+button {
+  background-color: rgb(41, 66, 41);
+  color: white;
+}

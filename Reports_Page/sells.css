@@ -1,0 +1,21 @@
+/* Finans.css */
+
+body {
+    background-color: rgb(27, 26, 26);
+}
+
+.container {
+    color: green;
+}
+
+button {
+    background-color: rgb(41, 66, 41);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
